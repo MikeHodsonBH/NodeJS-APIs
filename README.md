@@ -8,7 +8,7 @@ Coordinated Universal Time (UTC), Thursday, 1 January 1970, not counting leap se
 
 Simply pass the time in a natural or unix format on the tail end of this url!
 
-Test the api [here](https://grand-aries.glitch.me/)
+Test the api [here](https://grand-aries.glitch.me/).
 
 Example API Calls
 

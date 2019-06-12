@@ -8,9 +8,12 @@ Coordinated Universal Time (UTC), Thursday, 1 January 1970, not counting leap se
 
 Simply pass the time in a natural or unix format on the tail end of this url!
 
+Test the api [here](https://grand-aries.glitch.me/)
+
 Example API Calls
 
 https://grand-aries.glitch.me/June%2011,%202019
+
 https://grand-aries.glitch.me/1560211200
 
 If the date string is invalid the api returns a JSON having the structure {"error" : "Invalid Date" }.

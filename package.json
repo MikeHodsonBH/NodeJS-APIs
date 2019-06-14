@@ -1,0 +1,21 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "\"Gets the IP address, preffered languages and system info for user device from header request\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/junem3ta/request-header-parser\""
+  },
+  "keywords": [
+    "[\"header-parser\"",
+    "\"request-parser\"",
+    "\"parser\"",
+    "\"junem3ta\"]"
+  ],
+  "author": "junem3ta",
+  "license": "MIT"
+}

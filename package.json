@@ -10,12 +10,10 @@
     "type": "git",
     "url": "\"https://github.com/junem3ta/request-header-parser\""
   },
-  "keywords": [
-    "[\"header-parser\"",
-    "\"request-parser\"",
-    "\"parser\"",
-    "\"junem3ta\"]"
-  ],
+  "keywords": ["header-parser",
+    "request-parser"",
+    "parser",
+    "junem3ta"]",
   "author": "junem3ta",
   "license": "MIT"
 }

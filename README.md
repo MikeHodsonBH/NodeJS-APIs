@@ -19,7 +19,7 @@ Install the following npm packages
 - cors
 - body-parser
 
-**How It Works** <br>
+**Running the service on Glitch** <br>
 This service provides time in both natural and unix formats.
 
 In the case of natural format, it converts the provided date to a string, using the UTC time zone.

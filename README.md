@@ -20,7 +20,7 @@ Install the following npm packages
 - body-parser
 
 **Running the service on Glitch** <br>
-This service provides time in both natural and unix formats.
+I've set up this project on Glitch. The service provides time in both natural and unix formats.
 
 In the case of natural format, it converts the provided date to a string, using the UTC time zone.
 The unix format (also known as POSIX time or epoch time) denotes the number of seconds that have elapsed since 00:00:00

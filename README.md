@@ -12,3 +12,9 @@ If the date string is valid the api returns a JSON having the structure {"unix":
 
 If the date string is invalid the api returns a JSON having the structure 
 {"error" : "Invalid Date" }.
+
+**Local Dev Setup**
+Install the following npm packages
+- express
+- cors
+- body-parser

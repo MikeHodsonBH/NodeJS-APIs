@@ -5,5 +5,5 @@ NodeJS micro-services repo
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| — _common files_<br> 
 | —  _request-header-parser_ <br>
 | — _timestamp-microservice_ <br>
-| — _timestamp-glitch-revamp <br>
+| — _timestamp-glitch-revamp_ <br>
 

@@ -7,3 +7,4 @@ NodeJS micro-services repo
 | — _timestamp-microservice_ <br>
 | — _timestamp-glitch-revamp_ <br>
 
+[Notes](https://medium.com/@junem3ta/decluttering-your-github-repository-cc4135b0567) on shared project repo

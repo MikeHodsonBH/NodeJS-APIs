@@ -31,8 +31,8 @@ Simply pass the time in a natural or unix format on the tail end of [this](https
 
 Example API Calls
 
-https://grand-aries.glitch.me/June%2011,%202019
+https://grand-aries-tsm.glitch.me/June%2011,%202019
 
-https://grand-aries.glitch.me/1560211200
+https://grand-aries-tsm.glitch.me/1560211200
 
 If the date string is invalid the api returns a JSON having the structure {"error" : "Invalid Date" }.
